@@ -65,7 +65,7 @@ The industry moved from **managing clusters** to **enabling developers**.
 - Developer experience, self-service, and speed are top priorities
 
 ```mermaid
-bar
+xychart-beta
     title Organizational Focus Shift
     x-axis Category
     y-axis Adoption (%)
