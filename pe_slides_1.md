@@ -66,10 +66,9 @@ The industry moved from **managing clusters** to **enabling developers**.
 
 ```mermaid
 xychart-beta
-    title Organizational Focus Shift
-    x-axis Category
-    y-axis Adoption (%)
-    "Platform Engineering" : 60
-    "Classic DevOps" : 25
-    "Infra-Centric Ops" : 15
+xychart-beta
+    title "Organizational Focus Shift"
+    x-axis ["Platform Engineering", "Classic DevOps", "Infra-Centric Ops"]
+    y-axis "Adoption (%)" 0 --> 70
+    bar [60, 25, 15]
 ```
