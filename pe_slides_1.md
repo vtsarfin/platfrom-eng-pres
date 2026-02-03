@@ -27,14 +27,15 @@ They consume Kubernetes as a managed cloud service.
 - **82%** of container users run Kubernetes in production
 - **~98%** of organizations use cloud-native technologies
 
+
 ```mermaid
 pie
     title Kubernetes Deployment Models (2024–2025)
     "Fully Managed (EKS/GKE/AKS)" : 65
     "Partially Managed" : 18
     "Fully Self-Managed" : 17
-
 ```
+
 # Slide 2 — Teams Avoid Third-Party Cluster Managers
 
 ## Key point
