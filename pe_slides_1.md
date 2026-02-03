@@ -51,7 +51,7 @@ pie
     "Cloud-Native Tooling Only" : 72
     "Third-Party UI Tools" : 18
     "Centralized Control Plane" : 10
-
+```
 
 # Slide 3 — Platform Engineering Changed the Problem
 
@@ -71,3 +71,4 @@ bar
     "Platform Engineering" : 60
     "Classic DevOps" : 25
     "Infra-Centric Ops" : 15
+```
