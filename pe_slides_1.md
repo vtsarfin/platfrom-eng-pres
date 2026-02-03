@@ -30,7 +30,7 @@ They consume Kubernetes as a managed cloud service.
 
 ```mermaid
 pie
-    title  Kubernetes Deployment Models (2024–2025)
+    title  "Kubernetes Deployment Models (2024–2025)"
     "Fully Managed (EKS/GKE/AKS)" : 65
     "Partially Managed" : 18
     "Fully Self-Managed" : 17
